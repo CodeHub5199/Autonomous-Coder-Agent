@@ -306,7 +306,3 @@ Agentic AI systems that can reliably plan, write, and execute code are a core pr
 > ```
 
 ---
-
-## License
-
-MIT
