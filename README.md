@@ -134,7 +134,7 @@ Create a `.env` file in the project root:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
-GROQ_MODEL=llama-3.3-70b-versatile   # or any Groq-supported model
+GROQ_MODEL=openai/gpt-oss-120b   # or any Groq-supported model
 ```
 
 ---
